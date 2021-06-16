@@ -5,7 +5,7 @@
 This page is meant to be used as a way to mathematically explain the inner workings of machine learning. Through linear algebra, partial differential equations, and summations we work our way foward into understanding the basics behind backpropogation and neural networks.
 
 All information was taken from this website: http://neuralnetworksanddeeplearning.com/index.html </br>
-However, examples and concepts are expanded upon on this page.
+However, examples and concepts are expanded upon on this page. Initially, this was meant to be a teaching tool with problems/answers. However, I decided to just only publish my notes instead. Some problems are left over for teachers that want problems in the ballpark of the material presented. 
 
 Feel free to contact me if there are any issues.
 
